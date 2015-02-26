@@ -1,3 +1,3 @@
 print "test"
 print "feature1 a"
-print "feature 2"
+print "feature2 a"
