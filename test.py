@@ -9,3 +9,4 @@ print "feature3 a b"
 print "feature5"
 
 print "bump version 1.0 + minor bug fix"
+print "bump version 1.1"
